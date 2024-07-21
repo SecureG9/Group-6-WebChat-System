@@ -1,4 +1,3 @@
-# Group-6-WebChat-System
 # README
 ## <b>Websocket Based Chat Application
 ### <b>Project Description:</b>
@@ -129,3 +128,4 @@ Please note: <b>the target user for the target message and file transfer are inp
 <li>Shivang Patel 
 <li>Aashaykumar Shah
 <li>Kartik Dangi
+
